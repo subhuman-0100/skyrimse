@@ -19264,6 +19264,7 @@ plugins:
       - C.Light
 
   - name: 'Fertility Mode 3 Fixes and Updates.esp'
+    url: [ 'https://www.nexusmods.com/skyrimspecialedition/mods/46820' ]
     after: [ 'Fertility Mode - RSChildren.esp' ]
 
   - name: 'Fixes for Armor and Clothing Extension.esp'
