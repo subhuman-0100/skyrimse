@@ -19263,6 +19263,9 @@ plugins:
       - C.ImageSpace
       - C.Light
 
+  - name: 'Fertility Mode 3 Fixes and Updates.esp'
+    after: 'Fertility Mode - RSChildren.esp'
+
   - name: 'Fixes for Armor and Clothing Extension.esp'
     url: [ 'https://www.nexusmods.com/skyrimspecialedition/mods/28059/' ]
     msg:
